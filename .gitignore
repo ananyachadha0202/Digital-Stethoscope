@@ -1,0 +1,24 @@
+# Build artifacts
+*.elf
+*.hex
+*.map
+*.o
+*.a
+*.lst
+*.d
+
+# AVR Studio / Microchip Studio
+*.atsln
+*.cproj
+*.componentinfo.xml
+Debug/
+Release/
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# Linux
+*~
